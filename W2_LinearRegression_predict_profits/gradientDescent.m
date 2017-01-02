@@ -21,11 +21,6 @@ for iter = 1:num_iters
     s2 = sum(U.*X(:,2));
     theta = theta - (alpha/m)*[s1;s2];
     
-
-
-
-
-
     % ============================================================
 
     % Save the cost J in every iteration    
