@@ -1,1 +1,2 @@
-# This project is about predicting the acceptance rate of the students according to therir exam scores.
+# This project is about predicting the admission probability of the students according to therir exam scores. (logistic regression)
+# The 2nd project is about predicting the quality of the microchips. (logistic regression with regularizations)
